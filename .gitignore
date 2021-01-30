@@ -1,0 +1,16 @@
+.idea/
+
+node_modules
+build
+
+npm-debug.log
+
+Thumbs.db
+ehtumbs.db
+
+Desctop.ini
+
+*.cab
+*.msi
+*.msm
+*.msp
